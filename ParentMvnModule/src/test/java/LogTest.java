@@ -13,7 +13,7 @@ public class LogTest {
     @Test
     public void testLogging() {
         Logger logger = LoggerFactory.getLogger(LogTest.class);
-        logger.info("This is my 2nd test.");
+        logger.debug("This is my 2nd test.");
     }
 
 }
