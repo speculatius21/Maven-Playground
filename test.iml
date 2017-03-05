@@ -7,6 +7,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="junit:junit:4.12" level="application" />
     <orderEntry type="library" name="org.slf4j:slf4j-api:1.7.22" level="application" />
-    <orderEntry type="library" name="com.interactivebrokers.tws:tws-api:9.72.05" level="application" />
+    <orderEntry type="library" name="com.interactivebrokers.tws:tws-api:Release" level="application" />
+    <orderEntry type="library" name="org.slf4j:slf4j-simple:1.7.22" level="application" />
   </component>
 </module>
