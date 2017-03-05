@@ -5,7 +5,7 @@ import org.slf4j.LoggerFactory;
 public class LogTest {
 
     @Test
-    void testSimpleLoggingOutput() {
+    public void testSimpleLoggingOutput() {
         Logger logger = LoggerFactory.getLogger(LogTest.class);
         logger.info("Hello World");
     }
