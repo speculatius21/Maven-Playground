@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.interactivebrokers.tws:tws-api:9.72.05">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/interactivebrokers/tws/tws-api/9.72.05/tws-api-9.72.05.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/interactivebrokers/tws/tws-api/9.72.05/tws-api-9.72.05-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/interactivebrokers/tws/tws-api/9.72.05/tws-api-9.72.05-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
